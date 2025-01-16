@@ -13,8 +13,6 @@ root.render(
 
 reportWebVitals();
 
-
-
 // import React from 'react';
 // import ReactDOM from 'react-dom/client';
 // import App from './App'; // Assuming App.js contains your main component
